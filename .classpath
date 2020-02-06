@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/documentum jars/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/mthdservlet.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/dfc.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/DmcRecords.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/dms-client-api.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/jcifs-krb5-1.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/jsafeFIPS.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/jsr173_api.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/krbutil.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/log4j.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/messageArchive.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/messageService.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/xforms.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/XformsCommon.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/xtrim-api.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/xtrim-server.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/activation.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/All-MB.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/bpmutil.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/castor-1.1-xml.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/certjFIPS.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/ci.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/commons-jxpath-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/configservice-api.jar"/>
+	<classpathentry kind="lib" path="E:/documentum jars/configservice-impl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
